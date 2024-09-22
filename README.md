@@ -77,3 +77,29 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 |`andymass/vim-matchup`|tag pair match|tag pair match|
 |`nvim-treesitter/nvim-treesitter-textobjects`|textobject|textobject|
 |`windwp/nvim-ts-autotag`|autotag|autotag|
+
+### ui
+
+|plugin|description|zh-CN|
+|--|--|--|
+|`MunifTanjim/nui.nvim`| UI component | UI 组件|
+|`rcarriga/nvim-notify`| notify | 通知
+|`akinsho/bufferline.nvim`|buffer| 缓冲区
+|`folke/noice.nvim`| notify message UI | 通知消息 UI
+|`lukas-reineke/indent-blankline.nvim`|indent line|缩进线|
+|`folke/which-key.nvim`| keymap hint|快捷键提示|
+|`tenxsoydev/tabs-vs-spaces.nvim`|switch tabs and spaces|切换tabs和空格|
+|`t9md/vim-quickhl`|highlight word|高亮单词|
+|`kevinhwang91/nvim-bqf`| better quickfix|更好的 quickfix|
+
+### git plugins
+
+|plugin|description|zh-CN|
+|--|--|--|
+`lewis6991/gitsigns.nvim`|git sign|git 符号|
+`sindrets/diffview.nvim`|diff view|diff 查看|
+`NeogitOrg/neogit`|git UI|git UI|
+`FabijanZulj/blame.nvim`|git blame|git blame|
+`rhysd/git-messenger.vim`|git commit|git commit 信息|
+`ruifm/gitlinker.nvim`|git link|git 链接|
+`rhysd/committia.vim`|edit commit git message|编辑 git commit 信息|
