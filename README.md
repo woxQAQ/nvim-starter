@@ -5,9 +5,9 @@
 A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
 Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
 
-# plugin installed
+## plugin installed
 
-## cmp plugins
+### cmp plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
@@ -19,7 +19,7 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 |`garymjr/nvim-snippets`|nvim-snippets|nvim-snippets|
 |`rafamadriz/friendly-snippets`|snippet enhance|snippet 增强|
 
-## editor plugins
+### editor plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
@@ -35,37 +35,37 @@ Refer to the [documentation](https://lazyvim.github.io/installation) to get star
 |`mbbill/undotree`|show undo history|可视化显示撤销历史|
 |`dnlhc/glance.nvim`|prettier lsp view|更好的lsp视图|
 
-## trouble plugin
+### trouble plugin
 
 |plugin|description|zh-CN|
 |--|--|--|
 |folke/trouble.nvim|trouble|trouble|
 
-## terminal plugins
+### terminal plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
 |`akinsho/toggleterm.nvim`|toggle terminal|toggle terminal|
 
-## formatter plugins
+### formatter plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
 |`stevearc/conform.nvim`|formatter|格式化|
 
-## lualine plugins
+### lualine plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
 |`nvim-lualine/lualine.nvim`|lualine|lualine|
 
-## lint plugins
+### lint plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
 |`mfussenegger/nvim-lint`|lint|lint|
 
-## treesitter plugins
+### treesitter plugins
 
 |plugin|description|zh-CN|
 |--|--|--|
