@@ -42,11 +42,25 @@ return {
           },
         },
         sources = cmp.config.sources({
-          { name = 'nvim_lsp', priority = 50 },
-          { name = 'path',     priority = 40 },
+          {
+            name = 'nvim_lsp',
+            priority = 50
+          },
+          {
+            name = 'path',
+            priority = 40
+          },
         }, {
-          { name = 'buffer', priority = 50, keyword_length = 3 },
-          { name = 'emoji',  insert = true, priority = 20 },
+          {
+            name = 'buffer',
+            priority = 50,
+            keyword_length = 3
+          },
+          {
+            name = 'emoji',
+            insert = true,
+            priority = 20
+          },
         }),
         mapping = cmp.mapping.preset.insert({
           ['<CR>'] = cmp.mapping.confirm({ select = auto_select }),
